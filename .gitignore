@@ -1,0 +1,12 @@
+**/build/*
+**/data/*
+**/*.csv
+**/.vscode/*
+
+**/.python-version
+
+**/__pycache__/
+
+tensorflow/model/*
+!tensorflow/model/*_scaler.h5
+**/.ipynb_checkpoints
