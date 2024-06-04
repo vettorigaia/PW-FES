@@ -1,3 +1,5 @@
+![logo_polimi](https://github.com/vettorigaia/PW-FES/assets/150171386/26bab3f8-3d90-495f-8a41-2200aa9273e0)
+
 # Scope
 This project was realized as a team project in the course "Neuroengineering" during my Master's Degree in Biomedical Engineering at Politecnico di Milano.
 
