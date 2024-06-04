@@ -1,8 +1,20 @@
+# Scope
+This project was realized as a team project in the course "Neuroengineering" during my Master's Degree in Biomedical Engineering at Politecnico di Milano.
+
+A system was developed to assist individuals with muscle impairments in performing essential movements by utilizing accelerometers and gyroscopic sensors to track arm movements such as reaching for targets and directional pointing. 
+
+Signal processing of the sensor data in MATLAB was undertaken to extract key features for each movement. 
+
+Subsequently, these features were utilized to train a Long Short-Term Memory (LSTM) neural network model in Python for real-time recognition of movements and rest positions through the Xsens device.
+
+Furthermore, the device was integrated with electrodes using C++ coding to issue electrical stimulation commands upon the identification of specific movements. This practical support facilitated the completion of intended actions effectively.
+
+This collaborative project was undertaken during the second year of the Master’s Degree course in Neuroengineering, under the guidance of Professor Pedrocchi Alessandra Laura Giulia and Professor Cerveri Pietro.
+
 # Intention detection for Functional Electrical Stimulation based Rehabilitation Exercises
 
-## Setup
-
-First, make sure you have Python 3.9.x and run the following commands. We recommend using a virtual environment (e.g., `pyenv`, more info [here](https://realpython.com/intro-to-pyenv/)).
+### Setup
+Python 3.9.x is needed. A virtual environment is recommended (e.g. 'pyenv', more info [here](https://realpython.com/intro-to-pyenv/)).
 
     pip install upgrade pip
     pip install -r requirements.txt
