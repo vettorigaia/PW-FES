@@ -16,7 +16,7 @@ This collaborative project was undertaken during the second year of the Masterâ€
 # Intention detection for Functional Electrical Stimulation based Rehabilitation Exercises
 
 ### Setup
-Python 3.9.x is needed. A virtual environment is recommended (e.g. 'pyenv', more info [here](https://realpython.com/intro-to-pyenv/)).
+Python 3.10.x is needed (bumped from 3.9.x to support a security-patched Pillow release). A virtual environment is recommended (e.g. 'pyenv', more info [here](https://realpython.com/intro-to-pyenv/)).
 
     pip install upgrade pip
     pip install -r requirements.txt
