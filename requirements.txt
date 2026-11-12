@@ -3,7 +3,7 @@ asttokens==2.0.8
 astunparse==1.6.3
 backcall==0.2.0
 cachetools==5.2.0
-certifi==2022.6.15
+certifi==2026.10.23
 charset-normalizer==2.1.1
 cycler==0.11.0
 debugpy==1.6.3
@@ -18,13 +18,13 @@ google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
 grpcio>=1.53.2
 h5py==3.7.0
-idna==3.3
+idna==3.20
 importlib-metadata==4.12.0
 ipykernel==6.15.2
 ipython==8.4.0
 jedi==0.18.1
-joblib==1.1.0
-jupyter-core==4.11.1
+joblib==1.6.0
+jupyter-core==5.9.1
 jupyter_client==7.3.5
 keras==2.9.0
 Keras-Preprocessing==1.1.2
